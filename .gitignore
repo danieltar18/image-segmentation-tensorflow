@@ -169,3 +169,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Images
+/oxford_pet/annotations/
+/oxford_pet/images/
+.history/
+/oxford_pet/*.tar.gz
